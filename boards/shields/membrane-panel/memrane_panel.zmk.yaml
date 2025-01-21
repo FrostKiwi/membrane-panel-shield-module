@@ -1,0 +1,8 @@
+file_format: "1"
+id: membrane
+name: Membrane Panel
+type: shield
+url: https://blog.frost.kiwi
+requires: [pro_micro]
+features:
+  - keys
