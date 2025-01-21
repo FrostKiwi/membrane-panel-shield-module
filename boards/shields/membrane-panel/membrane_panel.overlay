@@ -1,5 +1,4 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include "membrane-panel-layouts.dtsi"
 
 / {
     kscan0: kscan0 {
