@@ -6,5 +6,7 @@ config ZMK_KEYBOARD_NAME
 
 config ZMK_KSCAN_MATRIX_WAIT_BETWEEN_OUTPUTS
     default 10
+config ZMK_KSCAN_MATRIX_WAIT_BEFORE_INPUTS
+    default 10
 
 endif
