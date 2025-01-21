@@ -4,4 +4,7 @@ if MEMBRANE_PANEL
 config ZMK_KEYBOARD_NAME
     default "Membrane Panel"
 
+config ZMK_KSCAN_MATRIX_WAIT_BETWEEN_OUTPUTS
+    default 10
+
 endif
