@@ -17,7 +17,7 @@
                 &none	&kp A	&kp S		&kp D		&kp F		&kp G		&kp H	&kp J		&kp K		&kp L		&kp SQT		&kp N4		&kp N5
                 &none	&kp Z	&kp X		&kp C		&kp V		&kp B		&kp N	&kp M		&kp GRAVE	&kp LBKT	&kp RBKT	&kp N1		&kp N2
 				&none	&kp TAB	&kp LCTRL	&kp LALT	&kp BSLH	&kp COMMA	&kp DOT	&kp SPACE	&none		&none		&none		&kp MINUS	&kp N0
-				&none	&kp UP	&kp DOWN	&kp LEFT	&kp RIGHT	&none		&none	&none		&bt BT_CLR	&kp UP		&kp PG_UP	&kp FLSH	&kp EQUAL
+				&none	&kp UP	&kp DOWN	&kp LEFT	&kp RIGHT	&none		&none	&none		&bt BT_CLR	&kp UP		&kp PG_UP	&kp FSLH	&kp EQUAL
             >;
         };
     };
