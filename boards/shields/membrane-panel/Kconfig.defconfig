@@ -5,7 +5,7 @@ config ZMK_KEYBOARD_NAME
     default "Membrane Panel"
 
 config ZMK_KSCAN_MATRIX_WAIT_BETWEEN_OUTPUTS
-    default 0
+    default 10
 config ZMK_KSCAN_MATRIX_WAIT_BEFORE_INPUTS
-    default 5
+    default 20
 endif
